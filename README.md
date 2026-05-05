@@ -8,7 +8,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/ISHIKHIN/TRSP_KR4)>
 cd fastapi_project
 ```
 
